@@ -14,4 +14,4 @@ function calcInss(valorBruto) {
 
 }
 
-console.log(calcInss(1500))
+module.exports = calcInss;
