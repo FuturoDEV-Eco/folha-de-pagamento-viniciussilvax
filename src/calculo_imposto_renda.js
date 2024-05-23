@@ -14,4 +14,4 @@ function calcIrrf(valorBruto) {
 
 }
 
-console.log(calcIrrf(1500))
+module.exports = calcIrrf;
